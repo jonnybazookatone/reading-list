@@ -14,3 +14,9 @@
    
    https://arxiv.org/abs/1706.02515
 
+ * *Machine Learning: The High Interest Credit Card of Technical Debt*
+   
+   **D. Sculley, Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, Dietmar Ebner, Vinay Chaudhary, Michael Young**
+
+   https://research.google.com/pubs/pub43146.html
+
