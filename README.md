@@ -5,3 +5,6 @@ like to find them in the future. Given that I usually don't use bookmarks freque
 and forget why I added things.
 
 Current list: [list](list.md)
+
+Upcoming reading list: [to read](toread.md)
+
