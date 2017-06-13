@@ -31,4 +31,8 @@
 
    https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837
 
+ * Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks
 
+   **Nikolay Laptev**, **Slawek Smyl**, & **Santhosh Shanmugam**
+ 
+   https://eng.uber.com/neural-networks/
