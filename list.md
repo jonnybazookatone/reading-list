@@ -43,3 +43,10 @@
    
    https://medium.com/@eliorcohen/implementing-malstm-on-kaggles-quora-question-pairs-competition-8b31b0b16a07
 
+ * *Learning to Reason with Neural Module Networks*
+
+   **Jacob Andreas**
+
+   http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/
+
+
