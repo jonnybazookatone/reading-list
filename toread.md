@@ -20,3 +20,13 @@
 
    https://research.google.com/pubs/pub43146.html
 
+
+## Recommendation Systems
+
+  * Two Decades of Recommender Systems at Amazon.com
+
+    **Brent Smith, Greg Linden**
+
+    https://www.computer.org/csdl/mags/ic/2017/03/mic2017030012.html
+
+
