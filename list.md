@@ -50,3 +50,12 @@
    http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/
 
 
+ ## GAN
+
+ * *Meow Generator*
+
+   **Alexia Jolicoeur-Martineau**
+
+   https://ajolicoeur.wordpress.com/cats/
+
+
