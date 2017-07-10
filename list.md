@@ -49,6 +49,12 @@
 
    http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/
 
+ * *When not to use deep learning*
+
+   **Sergio Pablo Sanchez Cordero Gonzalez**
+
+   http://hyperparameter.space/blog/when-not-to-use-deep-learning/
+
 
  ### GAN
 
