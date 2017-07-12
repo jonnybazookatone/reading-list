@@ -55,6 +55,11 @@
 
    http://hyperparameter.space/blog/when-not-to-use-deep-learning/
 
+ * *Bayesian Deep Learning: Dealing with uncertainty and non-stationarity*
+
+    **Thomas Wiecki**
+
+   https://docs.google.com/presentation/d/11uT-sDKVNHjmVZyPuOywfah-OxN6oUqKjbc-U9StVys/edit#slide=id.p 
 
  ### GAN
 
