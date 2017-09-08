@@ -1,5 +1,14 @@
 # Reading List
 
+## Infrastructure
+
+* *Meet Michelangelo: Uber’s Machine Learning Platform*
+
+  **Jeremy Hermann & Mike Del Balso**
+
+  * https://eng.uber.com/michelangelo/
+
+
 ## Deep Learning
 
 * *How to build a Recurrent Neural Network*
