@@ -1,5 +1,20 @@
 # To Read List
 
+## Reviews
+
+ * *Data-driven Advice for Applying Macine Learning to Bioinformatics Problems*
+
+   **Randal S. Olson, William La Cava, Zairah Mustahsan, Akshay Varik, and Jason H. Moore**
+
+   https://arxiv.org/abs/1708.05070
+
+ * *Systematic evaluation of CNN advances on the ImageNet*
+
+   **Dmytro Mishkin, Nikolay Sergievskiy, Jiri Matas**
+
+   https://arxiv.org/abs/1606.02228
+
+
 ## Data Mining
 
  * *Datamining Pokémon*
@@ -7,6 +22,7 @@
    **eevee**
 
    https://eev.ee/blog/2017/08/02/datamining-pokemon/
+
 
 ## Generic ML
  
@@ -18,6 +34,13 @@
 
 
 ## Frameworks
+
+ * *Neural Net in 10 Frameworks*
+
+   **Ilia Karmanov**
+
+   https://medium.com/@iliakarmanov/neural-net-in-8-frameworks-lessons-learned-6a5e8e78b481
+
 
  * *PyTorch or TensorFlow?*
 
