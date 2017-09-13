@@ -9,6 +9,22 @@
   * https://eng.uber.com/michelangelo/
 
 
+## Frameworks
+
+ * *Neural Net in 10 Frameworks* 
+ 
+   **Ilia Karmanov** 
+ 
+   https://medium.com/@iliakarmanov/neural-net-in-8-frameworks-lessons-learned-6a5e8e78b481 
+ 
+ 
+ * *PyTorch or TensorFlow?* 
+ 
+   **Awni Hannun** 
+ 
+   https://awni.github.io/pytorch-tensorflow/
+
+
 ## Deep Learning
 
 * *How to build a Recurrent Neural Network*
